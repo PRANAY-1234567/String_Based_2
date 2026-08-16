@@ -8,3 +8,4 @@ for ch in s:
     else:
         seen.add(ch)
 print(duplicates)
+
