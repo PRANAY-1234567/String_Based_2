@@ -48,7 +48,7 @@ Example Output:
 
 Anagram
 
-4️⃣ Reverse Words in a Sentence
+## 4️⃣ Reverse Words in a Sentence
 
 Problem: Reverse the order of words in a sentence.
 
