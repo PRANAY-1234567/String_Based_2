@@ -7,5 +7,4 @@ for ch in s:
         duplicates.add(ch)
     else:
         seen.add(ch)
-
 print(duplicates)
