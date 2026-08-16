@@ -5,6 +5,7 @@ This repository contains a collection of basic to intermediate Python string man
 These programs are useful for interview preparation, logic building, and understanding core Python concepts like loops, sets, strings, and built-in functions.
 
 🧩 Programs Included
+
 1️⃣ Find Duplicate Characters in a String
 
 Problem: Identify duplicate characters in a given string.
