@@ -6,7 +6,7 @@ These programs are useful for interview preparation, logic building, and underst
 
 🧩 Programs Included
 
-1️⃣ Find Duplicate Characters in a String
+## 1️⃣ Find Duplicate Characters in a String
 
 Problem: Identify duplicate characters in a given string.
 
