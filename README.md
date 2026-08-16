@@ -1,4 +1,4 @@
-🔤 Python String Programs Collection
+## 🔤 Python String Programs Collection
 
 📌 Description
 This repository contains a collection of basic to intermediate Python string manipulation programs.
