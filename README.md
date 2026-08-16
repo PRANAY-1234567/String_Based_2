@@ -76,9 +76,7 @@ Print first character with count = 1
 
 Example Output:
 
-w
-
-6️⃣ Replace Spaces with Special Characters
+## 6️⃣ Replace Spaces with Special Characters
 
 Problem: Replace spaces in a string with @.
 
@@ -90,7 +88,7 @@ Example Output:
 
 hello@world@python
 
-7️⃣ Capitalize First Letter of Each Word
+## 7️⃣ Capitalize First Letter of Each Word
 
 Problem: Capitalize the first letter of every word in a sentence.
 
@@ -102,7 +100,7 @@ Example Output:
 
 Python Is Easy
 
-🛠 Concepts Covered
+## 🛠 Concepts Covered
 
 Strings
 
@@ -114,7 +112,7 @@ Built-in functions (sorted(), split(), join(), replace(), title())
 
 Conditional statements
 
-🎯 Use Cases
+## 🎯 Use Cases
 
 Python interview preparation
 
@@ -124,7 +122,7 @@ Beginners learning Python
 
 Logic-building practice
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Add function-based versions
 
@@ -132,6 +130,6 @@ Optimize time complexity
 
 Add user input support
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Pranay Jadhao
