@@ -64,7 +64,7 @@ Example Output:
 
 python love I
 
-5️⃣ Find First Non-Repeating Character
+## 5️⃣ Find First Non-Repeating Character
 
 Problem: Find the first character that does not repeat.
 
