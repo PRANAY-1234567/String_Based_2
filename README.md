@@ -20,7 +20,7 @@ Example Output:
 
 {'r', 'g', 'm'}
 
-2️⃣ Remove Duplicates from a String
+## 2️⃣ Remove Duplicates from a String
 
 Problem: Remove repeated characters while maintaining order.
 
