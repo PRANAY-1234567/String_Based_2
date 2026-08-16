@@ -34,7 +34,7 @@ Example Output:
 
 ban
 
-3️⃣ Check if Two Strings are Anagrams
+## 3️⃣ Check if Two Strings are Anagrams
 
 Problem: Check whether two strings contain the same characters in different order.
 
